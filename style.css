@@ -1,9 +1,11 @@
+body{
+    -family: 'Paytone One', sans-fontserif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Source Serif Pro', serif;
+}
 h1{
-    color: blueviolet;
+    font-size: 50px;
 }
-small{
-    display: block;
-}
-h3{
-    display:inline;
+.brwon-color{
+    color: brown;
 }
